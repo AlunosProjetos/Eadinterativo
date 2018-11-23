@@ -1,3 +1,3 @@
 # teste
 teste
-alunosprojetos.github.io/
+https://alunosprojetos.github.io/teste/
